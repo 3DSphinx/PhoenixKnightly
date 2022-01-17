@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhoenixKnightly
+- 👋 Hi, I’m @3DSphinx
 - 👀 I’m interested in ... CGI, VFX, coding, drawing and music
 - 🌱 I’m currently learning ... Blender scripting
 - 💞️ I’m looking to collaborate on ...n/a right now
